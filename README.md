@@ -1,7 +1,7 @@
-# Название проекта
+# Name of project is "Training algorithms"
 The project was created in order to collect algorithms that allow you to learn from them, develop a sense of algorithms
 
-## Содержание
+## Outline
 - [Технологии](#технологии)
 - [Начало работы](#начало-работы)
 - [Тестирование](#тестирование)
