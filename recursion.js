@@ -67,14 +67,13 @@
  * Example 4.2 Рекурсивное определение наибольшего числа из элементов массива
  * применяю тернарный оператор в return
  */
-// function maxNumberArrayRec(arr) {
-//   if (arr.length === 2) {
-//     return arr[0] > arr[1] ? arr[0] : arr[1];
-//   }
-//   subMax = maxNumberArrayRec(arr.slice(1));
-//   return arr[0] > subMax ? arr[0] : subMax;
-// }
+function maxNumberArrayRec(arr) {
+  if (arr.length === 2) {
+    return arr[0] > arr[1] ? arr[0] : arr[1];
+  }
+  subMax = maxNumberArrayRec(arr.slice(1));
+  return arr[0] > subMax ? arr[0] : subMax;
+}
 
-// const max = maxNumberArrayRec([2, 1, 6, 4, 5]);
-// console.log("res: " + max);
-
+const max = maxNumberArrayRec([2, 1, 6, 4, 5]);
+console.log("res: " + max);
