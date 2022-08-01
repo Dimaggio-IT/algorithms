@@ -1,5 +1,63 @@
+<a id="up"></a>
 # Name of project is "Learnging algorithms"
 The project was created in order to collect algorithms that allow you to learn from them, develop a sense of algorithms
+
+>Цитата
+>>Вложенная цитата
+
+Это H1 или Заголовок I
+===
+
+Это H2 или Заголовок II
+---
+
+1.	Проводник
+2.	Полупроводник
+3.	Диэлектрик
+
+* Проводник
+* Полупроводник
+* Диэлектрик
+
+<address@example.com>
+
+1. This is
+1. a parent numbered list
+   1. and this is
+   1. a nested numbered list
+1. (fin)
+
+
+|This is   |a simple   |table header|
+|----------|-----------|------------|
+|table     |data       |here        |
+|it doesn't|actually   |have to line up nicely!|
+
+
+|                  |Header 1 |Header 2|
+|------------------|---------|--------|
+|**First column A**|Cell 1A  |Cell 2A |
+|**First column B**|Cell 1B  |Cell 2B |
+
+
+***
+__жирный__
+***
+_курсив_
+***
+___жирный курсив___
+***
+![ссылка тестовая](https://rookee.ru/upload/medialibrary/b9b/content_img.png)
+
+цвет  | количество | размер
+:-----|:----------:|:------:
+красный | 1 | 256
+синий   | 2 | 22
+зеленый | 3 | 6489
+
+\#Не заголовок
+
+Термин: Определение
 
 ## Outline
 - [Технологии](#технологии)
@@ -85,3 +143,5 @@ npm run test
 
 ## Источники
 Если вы чем-то вдохновлялись, расскажите об этом: где брали идеи, какие туториалы смотрели, ссылки на исходники кода.
+
+[вверх](#up)
