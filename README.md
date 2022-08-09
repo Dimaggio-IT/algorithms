@@ -4,7 +4,6 @@
 The project was created in order to collect algorithms that allow you to learn from them, develop a sense of algorithms
 
 ## Outline
-- [Name of project is "Learnging algorithms"](#name-of-project-is-learnging-algorithms)
   - [Outline](#outline)
   - [Algorithms](#algorithms)
   - [JS Basics](#js-basics)
