@@ -79,10 +79,6 @@ dataSort.sort((prev, next) => {
   return res;
 });
 
-// console.log("");
-// console.log(dataSort);
-
-// console.log("");
 const resObj = determineTypeSmpf(dataSort.slice(undefined, quantityNeibors));
 console.log("It's some kind of fruit: ", something);
 console.log("We took " + quantityNeibors + " neighbors");
