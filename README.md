@@ -7,6 +7,7 @@ The project was created in order to collect algorithms that allow you to learn f
   - [Outline](#outline)
   - [Algorithms](#algorithms)
   - [JS Basics](#js-basics)
+  - [Data Structures](#data-structures)
 
 
 ## Algorithms
@@ -14,6 +15,14 @@ The project was created in order to collect algorithms that allow you to learn f
 - ...
 
 ## JS Basics
+- [Callback](https://github.com/Dimaggio-IT/algorithms/blob/master/callback-clg-bind.js)
+- [Check array index](https://github.com/Dimaggio-IT/algorithms/blob/master/check-array-index.js)
 - [Listener](https://github.com/Dimaggio-IT/algorithms/blob/master/listener.js)
+- [indexOf](https://github.com/Dimaggio-IT/algorithms/blob/master/indexOf.js)
+- [Recursion](https://github.com/Dimaggio-IT/algorithms/blob/master/recursion.js)
+
+## Data Structures
+- []()
+- ...
 
 [up](#up)
