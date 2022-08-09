@@ -4,14 +4,17 @@
 The project was created in order to collect algorithms that allow you to learn from them, develop a sense of algorithms
 
 ## Outline
-- [Algorithms](#algorithms)
-- [JS Basics](#js-basics)
-- [Data structures](#data-structures)
+- [Name of project is "Learnging algorithms"](#name-of-project-is-learnging-algorithms)
+  - [Outline](#outline)
+  - [Algorithms](#algorithms)
+  - [JS Basics](#js-basics)
 
 
-## Технологии
-- [Listener](https://github.com/Dimaggio-IT/algorithms/lestener.js)
+## Algorithms
 - []()
 - ...
+
+## JS Basics
+- [Listener](https://github.com/Dimaggio-IT/algorithms/blob/master/listener.js)
 
 [up](#up)
