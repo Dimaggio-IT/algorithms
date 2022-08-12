@@ -22,7 +22,7 @@ The project was created in order to collect algorithms that allow you to learn f
 - [Dijkstra](https://github.com/Dimaggio-IT/algorithms/blob/master/dijkstra.js)
 - [Dynamic programming the longest common string](https://github.com/Dimaggio-IT/algorithms/blob/master/dp-longest-common-string-terminal.js)
 - [Dynamic programming the longest common subsequence](https://github.com/Dimaggio-IT/algorithms/blob/master/dp-longest-common-subsequence-terminal.js)
-- [K-nearest neighbour](https://github.com/Dimaggio-IT/algorithms/blob/master/knn-classification-simple-pythagoras.js)
+- [K-nearest neighbour - classification](https://github.com/Dimaggio-IT/algorithms/blob/master/knn-classification-simple-pythagoras.js)
 - [Projection](https://github.com/Dimaggio-IT/algorithms/blob/master/projection.js)
 - [Quick sort](https://github.com/Dimaggio-IT/algorithms/blob/master/quick-sort.js)
 - [Selection sort](https://github.com/Dimaggio-IT/algorithms/blob/master/selection-sort.js)
