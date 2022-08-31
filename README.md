@@ -27,6 +27,7 @@ The project was created in order to collect algorithms that allow you to learn f
 - [Quick sort](https://github.com/Dimaggio-IT/algorithms/blob/master/quick-sort.js)
 - [Selection sort](https://github.com/Dimaggio-IT/algorithms/blob/master/selection-sort.js)
 - [Set covering](https://github.com/Dimaggio-IT/algorithms/blob/master/set-covering.js)
+- [Merge sort](https://github.com/Dimaggio-IT/algorithms/blob/master/merge-sort.js)
 
 ## JS Basics
 - [Callback](https://github.com/Dimaggio-IT/algorithms/blob/master/callback-clg-bind.js)
