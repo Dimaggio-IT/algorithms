@@ -19,6 +19,7 @@ The project was created in order to collect algorithms that allow you to learn f
   - [Binary recursion](https://github.com/Dimaggio-IT/algorithms/blob/master/binary-search-recursive.js)
   - [Breadth](https://github.com/Dimaggio-IT/algorithms/blob/master/breadth-first-search.js)
   - [Breadth recursive](https://github.com/Dimaggio-IT/algorithms/blob/master/breadth-first-search-recursive.js)
+  - [Linear](https://github.com/Dimaggio-IT/algorithms/blob/master/linear-search.js)
 - Fibonacci
   - [Fibonacci simple recursion](https://github.com/Dimaggio-IT/algorithms/blob/master/simple-recursion-fibonacci.js)
   - [Fibonacci memoization one](https://github.com/Dimaggio-IT/algorithms/blob/master/memoization-fibonacci-one.js)
