@@ -1,9 +1,12 @@
 <a id="up"></a>
 
-# Name of project is "Learnging algorithms"
+# Name of project is "Learning algorithms"
 The project was created in order to collect algorithms that allow you to learn from them, develop a sense of algorithms
 
+<!-- ## remark -->
+
 ## Outline
+- [Name of project is "Learning algorithms"](#name-of-project-is-learning-algorithms)
   - [Outline](#outline)
   - [Algorithms](#algorithms)
   - [JS Basics](#js-basics)
@@ -11,23 +14,26 @@ The project was created in order to collect algorithms that allow you to learn f
 
 
 ## Algorithms
-- [Binary search](https://github.com/Dimaggio-IT/algorithms/blob/master/binary-search.js)
-- [Binary search recursion](https://github.com/Dimaggio-IT/algorithms/blob/master/binary-search-recursive.js)
-- [Fibonacci simple recursion](https://github.com/Dimaggio-IT/algorithms/blob/master/simple-recursion-fibonacci.js)
-- [Fibonacci memoization one](https://github.com/Dimaggio-IT/algorithms/blob/master/memoization-fibonacci-one.js)
-- [Fibonacci memoization two](https://github.com/Dimaggio-IT/algorithms/blob/master/memoization-fibonacci-two.js)
-- [Fibonacci tabulation](https://github.com/Dimaggio-IT/algorithms/blob/master/tabulation-fibonacci.js)
-- [Breadth search recursive](https://github.com/Dimaggio-IT/algorithms/blob/master/breadth-first-search-recursive.js)
-- [Breadth search](https://github.com/Dimaggio-IT/algorithms/blob/master/breadth-first-search.js)
+- Search
+  - [Binary](https://github.com/Dimaggio-IT/algorithms/blob/master/binary-search.js)
+  - [Binary recursion](https://github.com/Dimaggio-IT/algorithms/blob/master/binary-search-recursive.js)
+  - [Breadth](https://github.com/Dimaggio-IT/algorithms/blob/master/breadth-first-search.js)
+  - [Breadth recursive](https://github.com/Dimaggio-IT/algorithms/blob/master/breadth-first-search-recursive.js)
+- Fibonacci
+  - [Fibonacci simple recursion](https://github.com/Dimaggio-IT/algorithms/blob/master/simple-recursion-fibonacci.js)
+  - [Fibonacci memoization one](https://github.com/Dimaggio-IT/algorithms/blob/master/memoization-fibonacci-one.js)
+  - [Fibonacci memoization two](https://github.com/Dimaggio-IT/algorithms/blob/master/memoization-fibonacci-two.js)
+  - [Fibonacci tabulation](https://github.com/Dimaggio-IT/algorithms/blob/master/tabulation-fibonacci.js)
+- Sort
+  - [Quick](https://github.com/Dimaggio-IT/algorithms/blob/master/quick-sort.js)
+  - [Selection](https://github.com/Dimaggio-IT/algorithms/blob/master/selection-sort.js)
+  - [Merge](https://github.com/Dimaggio-IT/algorithms/blob/master/merge-sort.js)
 - [Dijkstra](https://github.com/Dimaggio-IT/algorithms/blob/master/dijkstra.js)
+- [Projection](https://github.com/Dimaggio-IT/algorithms/blob/master/projection.js)
 - [Dynamic programming the longest common string](https://github.com/Dimaggio-IT/algorithms/blob/master/dp-longest-common-string-terminal.js)
 - [Dynamic programming the longest common subsequence](https://github.com/Dimaggio-IT/algorithms/blob/master/dp-longest-common-subsequence-terminal.js)
 - [K-nearest neighbour - classification](https://github.com/Dimaggio-IT/algorithms/blob/master/knn-classification-simple-pythagoras.js)
-- [Projection](https://github.com/Dimaggio-IT/algorithms/blob/master/projection.js)
-- [Quick sort](https://github.com/Dimaggio-IT/algorithms/blob/master/quick-sort.js)
-- [Selection sort](https://github.com/Dimaggio-IT/algorithms/blob/master/selection-sort.js)
 - [Set covering](https://github.com/Dimaggio-IT/algorithms/blob/master/set-covering.js)
-- [Merge sort](https://github.com/Dimaggio-IT/algorithms/blob/master/merge-sort.js)
 
 ## JS Basics
 - [Callback](https://github.com/Dimaggio-IT/algorithms/blob/master/callback-clg-bind.js)
