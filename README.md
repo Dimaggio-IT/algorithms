@@ -29,6 +29,7 @@ The project was created in order to collect algorithms that allow you to learn f
   - [Quick](https://github.com/Dimaggio-IT/algorithms/blob/master/quick-sort.js)
   - [Selection](https://github.com/Dimaggio-IT/algorithms/blob/master/selection-sort.js)
   - [Merge](https://github.com/Dimaggio-IT/algorithms/blob/master/merge-sort.js)
+  - [Bubble](https://github.com/Dimaggio-IT/algorithms/blob/master/bubble-sort.js)
 - [Dijkstra](https://github.com/Dimaggio-IT/algorithms/blob/master/dijkstra.js)
 - [Projection](https://github.com/Dimaggio-IT/algorithms/blob/master/projection.js)
 - [Dynamic programming the longest common string](https://github.com/Dimaggio-IT/algorithms/blob/master/dp-longest-common-string-terminal.js)
