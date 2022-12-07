@@ -11,8 +11,11 @@
 // имплементации функции Фибоначчи — O(2**n)
 
 function fibRec(n) {
-  if (n < 2) {
-    return n;
+  // range: 0, 1, 1, 2, 3, 5, 8, 13, 21
+  // if (n < 2) {
+  //   return n;
+  if (n === 1 || n === 2){ // range: 1, 1, 2, 3, 5, 8, 13, 21
+    return 1;
   } else {
     // const fibOneTree = fibRec(n - 1);
     // const fibTwoTree = fibRec(n - 2);
@@ -22,5 +25,5 @@ function fibRec(n) {
   }
 }
 
-const res = fibRec(6);
+const res = fibRec(3);
 console.log(res);

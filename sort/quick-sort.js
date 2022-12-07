@@ -106,13 +106,21 @@
 // console.log(ourArray);
 
 /**
+ *
+ * Dimaggio
+ *
  * NOTE: Example 3. Recursion
+ *
+ * сложность (count): O(n*logn)
+ *
  */
 
+let count = 0;
 const min = (a) => (item) => item < a ? true : false;
 const max = (b) => (item) => item > b ? true : false;
 
 function quickSort(arr) {
+  count += 1;
   if (arr.length < 2) return arr;
   else {
     const pivot = arr[0];
@@ -120,9 +128,12 @@ function quickSort(arr) {
     const maxFunc = max(pivot);
     const lessArr = arr.filter(minFunc);
     const greaterArr = arr.filter(maxFunc);
-    return quickSort(lessArr).concat([pivot]).concat(quickSort(greaterArr));
+    // return quickSort(lessArr).concat([pivot]).concat(quickSort(greaterArr));
+    // or
+    return [...quickSort(lessArr), pivot, ...quickSort(greaterArr)];
   }
 }
 
 arr = [10, 5, 2, 3, 20];
 console.log(quickSort(arr));
+console.log("count = ", count);
