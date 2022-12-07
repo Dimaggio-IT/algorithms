@@ -17,8 +17,6 @@ The project was created in order to collect algorithms that allow you to learn f
 - Search
   - [Binary](https://github.com/Dimaggio-IT/algorithms/blob/master/search/binary-search.js)
   - [Binary recursion](https://github.com/Dimaggio-IT/algorithms/blob/search/master/binary-search-recursive.js)
-  - [Breadth](https://github.com/Dimaggio-IT/algorithms/blob/master/search/breadth-first-search.js)
-  - [Breadth recursive](https://github.com/Dimaggio-IT/algorithms/blob/master/search/breadth-first-search-recursive.js)
   - [Linear](https://github.com/Dimaggio-IT/algorithms/blob/master/search/linear-search.js)
 - Fibonacci
   - [Fibonacci simple recursion](https://github.com/Dimaggio-IT/algorithms/blob/master/fibonacci/simple-recursion-fibonacci.js)
@@ -30,8 +28,12 @@ The project was created in order to collect algorithms that allow you to learn f
   - [Selection](https://github.com/Dimaggio-IT/algorithms/blob/master/sort/selection-sort.js)
   - [Merge](https://github.com/Dimaggio-IT/algorithms/blob/master/sort/merge-sort.js)
   - [Bubble](https://github.com/Dimaggio-IT/algorithms/blob/master/sort/bubble-sort.js)
+- Graph
+  - [Dijkstra](https://github.com/Dimaggio-IT/algorithms/blob/master/graph/dijkstra.js)
+  - [Breadth](https://github.com/Dimaggio-IT/algorithms/blob/master/graph/breadth-first-search.js)
+  - [Breadth recursive](https://github.com/Dimaggio-IT/algorithms/blob/master/graph/breadth-first-search-recursive.js)
+  - [Breadth true path](https://github.com/Dimaggio-IT/algorithms/blob/master/graph/breadth-true-path.js)
 - [Factorial](https://github.com/Dimaggio-IT/algorithms/blob/master/factorial.js)
-- [Dijkstra](https://github.com/Dimaggio-IT/algorithms/blob/master/dijkstra.js)
 - [Projection](https://github.com/Dimaggio-IT/algorithms/blob/master/projection.js)
 - [Dynamic programming the longest common string](https://github.com/Dimaggio-IT/algorithms/blob/master/dp-longest-common-string-terminal.js)
 - [Dynamic programming the longest common subsequence](https://github.com/Dimaggio-IT/algorithms/blob/master/dp-longest-common-subsequence-terminal.js)
