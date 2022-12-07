@@ -35,6 +35,6 @@ const createArr = (n) => Array.from({ length: n }, (v, k) => k + 1);
 const myList = createArr(5);
 
 console.log(myList);
-console.log("index of element = ", binarySearch(myList, 7)); // 2
+console.log("index of element = ", binarySearch(myList, 4)); // 2
 // console.log(binarySearch(myList, -1)); // null
 console.log("count = " + count);
