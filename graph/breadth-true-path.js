@@ -9,6 +9,7 @@
  */
 
 const graph = {};
+const searched = [];
 graph.a = ["b", "c"];
 graph.b = ["f"];
 graph.c = ["d", "e"];
@@ -27,6 +28,7 @@ function breadthSearch(graph, start, end) {
     if (graph[current].includes(end)) {
       return true;
     } else {
+      searched.push(current);
       queue = [...queue, ...graph[current]];
     }
   }
@@ -34,3 +36,5 @@ function breadthSearch(graph, start, end) {
 }
 
 console.log("Is there a path = ", breadthSearch(graph, "a", "g"));
+console.log("searched");
+console.log(searched);

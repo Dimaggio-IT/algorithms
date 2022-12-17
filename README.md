@@ -29,10 +29,13 @@ The project was created in order to collect algorithms that allow you to learn f
   - [Merge](https://github.com/Dimaggio-IT/algorithms/blob/master/sort/merge-sort.js)
   - [Bubble](https://github.com/Dimaggio-IT/algorithms/blob/master/sort/bubble-sort.js)
 - Graph
-  - [Dijkstra](https://github.com/Dimaggio-IT/algorithms/blob/master/graph/dijkstra.js)
+  - [Dijkstra](https://github.com/Dimaggio-IT/algorithms/blob/master/graph/dijkstra-two.js)
   - [Breadth](https://github.com/Dimaggio-IT/algorithms/blob/master/graph/breadth-first-search.js)
   - [Breadth recursive](https://github.com/Dimaggio-IT/algorithms/blob/master/graph/breadth-first-search-recursive.js)
   - [Breadth true path](https://github.com/Dimaggio-IT/algorithms/blob/master/graph/breadth-true-path.js)
+- Tree
+  - [Itaration simple](https://github.com/Dimaggio-IT/algorithms/blob/master/tree/something.js)
+  - [Recursion simple](https://github.com/Dimaggio-IT/algorithms/blob/master/tree/tree-simple-recursion.js)
 - [Factorial](https://github.com/Dimaggio-IT/algorithms/blob/master/factorial.js)
 - [Projection](https://github.com/Dimaggio-IT/algorithms/blob/master/projection.js)
 - [Dynamic programming the longest common string](https://github.com/Dimaggio-IT/algorithms/blob/master/dp-longest-common-string-terminal.js)

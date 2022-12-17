@@ -94,3 +94,5 @@ while (node !== null) {
 
 console.log("Cost from the start to each node:");
 console.log(costs); // { a: 5, b: 2, fin: 6 }
+console.log("a particular path:");
+console.log(parents);

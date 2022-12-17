@@ -21,6 +21,8 @@ graph["peggy"] = [];
 graph["thom"] = [];
 graph["jonny"] = [];
 
+const searched = [];
+
 function personIsSeller(name) {
   const flagSeller = name.slice(-1);
   return flagSeller === "m" ? true : false;
@@ -29,7 +31,6 @@ function personIsSeller(name) {
 function search(name) {
   let search_queue = [];
   search_queue = search_queue.concat(graph[name]);
-  const searched = [];
   while (search_queue.length > 0) {
     const person = search_queue.shift();
     if (!searched.includes(person)) {
@@ -46,3 +47,5 @@ function search(name) {
 
 const seller = search("you");
 console.log(seller);
+console.log("searched");
+console.log(searched);
