@@ -36,6 +36,7 @@ The project was created in order to collect algorithms that allow you to learn f
 - Tree
   - [Itaration and stack](https://github.com/Dimaggio-IT/algorithms/blob/master/tree/tree-iteration.js)
   - [Recursion](https://github.com/Dimaggio-IT/algorithms/blob/master/tree/tree-recursion.js)
+- [Cache](https://github.com/Dimaggio-IT/algorithms/blob/master/cache.js)
 - [Factorial](https://github.com/Dimaggio-IT/algorithms/blob/master/factorial.js)
 - [Projection](https://github.com/Dimaggio-IT/algorithms/blob/master/projection.js)
 - [Dynamic programming the longest common string](https://github.com/Dimaggio-IT/algorithms/blob/master/dp-longest-common-string-terminal.js)
