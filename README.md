@@ -36,13 +36,15 @@ The project was created in order to collect algorithms that allow you to learn f
 - Tree
   - [Itaration and stack](https://github.com/Dimaggio-IT/algorithms/blob/master/tree/tree-iteration.js)
   - [Recursion](https://github.com/Dimaggio-IT/algorithms/blob/master/tree/tree-recursion.js)
+  - [Binary](https://github.com/Dimaggio-IT/algorithms/blob/master/tree/binary.js)
+- Dynamic programming
+  - [Dynamic programming the longest common string](https://github.com/Dimaggio-IT/algorithms/blob/master/dp-longest-common-string-terminal.js)
+  - [Dynamic programming the longest common subsequence](https://github.com/Dimaggio-IT/algorithms/blob/master/dp-longest-common-subsequence-terminal.js)
+  - [K-nearest neighbour - classification](https://github.com/Dimaggio-IT/algorithms/blob/master/knn-classification-simple-pythagoras.js)
+  - [Set covering](https://github.com/Dimaggio-IT/algorithms/blob/master/set-covering.js)
 - [Cache](https://github.com/Dimaggio-IT/algorithms/blob/master/cache.js)
 - [Factorial](https://github.com/Dimaggio-IT/algorithms/blob/master/factorial.js)
 - [Projection](https://github.com/Dimaggio-IT/algorithms/blob/master/projection.js)
-- [Dynamic programming the longest common string](https://github.com/Dimaggio-IT/algorithms/blob/master/dp-longest-common-string-terminal.js)
-- [Dynamic programming the longest common subsequence](https://github.com/Dimaggio-IT/algorithms/blob/master/dp-longest-common-subsequence-terminal.js)
-- [K-nearest neighbour - classification](https://github.com/Dimaggio-IT/algorithms/blob/master/knn-classification-simple-pythagoras.js)
-- [Set covering](https://github.com/Dimaggio-IT/algorithms/blob/master/set-covering.js)
 
 ## JS Basics
 - [Callback](https://github.com/Dimaggio-IT/algorithms/blob/master/callback-clg-bind.js)
@@ -51,6 +53,10 @@ The project was created in order to collect algorithms that allow you to learn f
 - [indexOf](https://github.com/Dimaggio-IT/algorithms/blob/master/indexOf.js)
 - [Recursion](https://github.com/Dimaggio-IT/algorithms/blob/master/recursion.js)
 - [Return array from array.reduce](https://github.com/Dimaggio-IT/algorithms/blob/master/return-array-from-reduce-min-max.js)
+- Map
+  - []()
+- Set
+  - []()
 
 ## Data Structures
 - [Hash-table check voter](https://github.com/Dimaggio-IT/algorithms/blob/master/hash-table-check-voter.js)
