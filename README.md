@@ -45,6 +45,8 @@ The project was created in order to collect algorithms that allow you to learn f
 - [Cache](https://github.com/Dimaggio-IT/algorithms/blob/master/cache.js)
 - [Factorial](https://github.com/Dimaggio-IT/algorithms/blob/master/factorial.js)
 - [Projection](https://github.com/Dimaggio-IT/algorithms/blob/master/projection.js)
+- [Palindrome](https://github.com/Dimaggio-IT/algorithms/blob/master/palindrome.js)
+
 
 ## JS Basics
 - [Callback](https://github.com/Dimaggio-IT/algorithms/blob/master/callback-clg-bind.js)
@@ -53,10 +55,10 @@ The project was created in order to collect algorithms that allow you to learn f
 - [indexOf](https://github.com/Dimaggio-IT/algorithms/blob/master/indexOf.js)
 - [Recursion](https://github.com/Dimaggio-IT/algorithms/blob/master/recursion.js)
 - [Return array from array.reduce](https://github.com/Dimaggio-IT/algorithms/blob/master/return-array-from-reduce-min-max.js)
-- Map
+<!-- - Map
   - []()
 - Set
-  - []()
+  - []() -->
 
 ## Data Structures
 - [Hash-table check voter](https://github.com/Dimaggio-IT/algorithms/blob/master/hash-table-check-voter.js)
