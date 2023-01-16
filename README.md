@@ -55,6 +55,8 @@ The project was created in order to collect algorithms that allow you to learn f
 - [indexOf](https://github.com/Dimaggio-IT/algorithms/blob/master/indexOf.js)
 - [Recursion](https://github.com/Dimaggio-IT/algorithms/blob/master/recursion.js)
 - [Return array from array.reduce](https://github.com/Dimaggio-IT/algorithms/blob/master/return-array-from-reduce-min-max.js)
+- [Unique elements of array](https://github.com/Dimaggio-IT/algorithms/blob/master/unique-elements-of-array.js)
+
 <!-- - Map
   - []()
 - Set
