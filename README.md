@@ -58,6 +58,7 @@ The project was created in order to collect algorithms that allow you to learn f
 - [Unique elements of array](https://github.com/Dimaggio-IT/algorithms/blob/master/unique-elements-of-array.js)
 - [Emulating reverse method of array](https://github.com/Dimaggio-IT/algorithms/blob/master/emulating-reverse-method-of-array.js)
 - [The sum of the digits of the variable](https://github.com/Dimaggio-IT/algorithms/blob/master/sum-of-digits.js)
+- [Day of week (object, array, find keys)](https://github.com/Dimaggio-IT/algorithms/blob/master/day-of-week.js)
 
 <!-- - Map
   - []()
