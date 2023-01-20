@@ -60,6 +60,7 @@ The project was created in order to collect algorithms that allow you to learn f
 - [The sum of the digits of the variable](https://github.com/Dimaggio-IT/algorithms/blob/master/sum-of-digits.js)
 - [Day of week (object, array, find keys)](https://github.com/Dimaggio-IT/algorithms/blob/master/day-of-week.js)
 - [Calculate roots by discriminant (x^2 + 6x + 9 = 0 ...)](https://github.com/Dimaggio-IT/algorithms/blob/master/calculate-roots.js)
+- [Calculate interest on a deposit](https://github.com/Dimaggio-IT/algorithms/blob/master/calculate-deposite.js)
 
 <!-- - Map
   - []()
