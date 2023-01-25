@@ -39,4 +39,4 @@
 
  const p1 = projection(md);
  const data = persons.map(p1);
- console.dir(dataUnsort);
+ console.dir(data);
