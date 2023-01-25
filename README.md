@@ -62,6 +62,7 @@ The project was created in order to collect algorithms that allow you to learn f
 - [Calculate roots by discriminant (x^2 + 6x + 9 = 0 ...)](https://github.com/Dimaggio-IT/algorithms/blob/master/calculate-roots.js)
 - [Calculate interest on a deposit](https://github.com/Dimaggio-IT/algorithms/blob/master/calculate-deposite.js)
 - [Choose one of two deposits](https://github.com/Dimaggio-IT/algorithms/blob/master/get-profitable-deposit.js)
+- [Sorted array of objects (quick sort)](https://github.com/Dimaggio-IT/algorithms/blob/master/get-sorted-array-of-objects.js)
 
 <!-- - Map
   - []()

@@ -128,12 +128,19 @@ function quickSort(arr) {
     const maxFunc = max(pivot);
     const lessArr = arr.filter(minFunc);
     const greaterArr = arr.filter(maxFunc);
-    // return quickSort(lessArr).concat([pivot]).concat(quickSort(greaterArr));
+    return quickSort(lessArr).concat([pivot]).concat(quickSort(greaterArr));
     // or
-    return [...quickSort(lessArr), pivot, ...quickSort(greaterArr)];
+    // return [...quickSort(lessArr), pivot, ...quickSort(greaterArr)];
   }
 }
 
-arr = [10, 5, 2, 3, 20];
+// arr = [10, 5, 2, 3, 20];
+// FIXME: на этих данных неверно!!! [ 2, 3, 4 ] одна четвёрка исчезла
+// TODO: пример с дороботкой можно посмотреть в скрипте get-sorted-array-of-object.js
+// TODO: getLessThenTheValue or getMoreThenTheValue
+
+arr = [3, 4, 4, 2];
+// console.log(arr.sort());
+
 console.log(quickSort(arr));
-console.log("count = ", count);
+// console.log("count = ", count);
