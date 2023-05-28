@@ -46,7 +46,8 @@ The project was created in order to collect algorithms that allow you to learn f
 - [Factorial](https://github.com/Dimaggio-IT/algorithms/blob/master/factorial.js)
 - [Projection](https://github.com/Dimaggio-IT/algorithms/blob/master/projection.js)
 - [Palindrome](https://github.com/Dimaggio-IT/algorithms/blob/master/palindrome.js)
-
+- [Unique elements of array](https://github.com/Dimaggio-IT/algorithms/blob/master/unique-elements-of-array.js)
+- [Median of array](https://github.com/Dimaggio-IT/algorithms/blob/master/median-of-array.js)
 
 ## JS Basics
 - [Callback](https://github.com/Dimaggio-IT/algorithms/blob/master/callback-clg-bind.js)
@@ -55,7 +56,6 @@ The project was created in order to collect algorithms that allow you to learn f
 - [indexOf](https://github.com/Dimaggio-IT/algorithms/blob/master/indexOf.js)
 - [Recursion](https://github.com/Dimaggio-IT/algorithms/blob/master/recursion.js)
 - [Return array from array.reduce](https://github.com/Dimaggio-IT/algorithms/blob/master/return-array-from-reduce-min-max.js)
-- [Unique elements of array](https://github.com/Dimaggio-IT/algorithms/blob/master/unique-elements-of-array.js)
 - [Emulating reverse method of array](https://github.com/Dimaggio-IT/algorithms/blob/master/emulating-reverse-method-of-array.js)
 - [The sum of the digits of the variable](https://github.com/Dimaggio-IT/algorithms/blob/master/sum-of-digits.js)
 - [Day of week (object, array, find keys)](https://github.com/Dimaggio-IT/algorithms/blob/master/day-of-week.js)
