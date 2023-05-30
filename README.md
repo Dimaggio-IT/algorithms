@@ -64,7 +64,7 @@ The project was created in order to collect algorithms that allow you to learn f
 - [Choose one of two deposits](https://github.com/Dimaggio-IT/algorithms/blob/master/get-profitable-deposit.js)
 - [Sorted array of objects (quick sort)](https://github.com/Dimaggio-IT/algorithms/blob/master/get-sorted-array-of-objects.js)
 - [Projection of data from two arrays (the first array is the keys and the second is the data)](https://github.com/Dimaggio-IT/algorithms/blob/master/get-data-array-of-keys-and-array-of-values.js)
-- [Geometric progression](https://github.com/Dimaggio-IT/algorithms/blob/master/listener.js)
+- [Geometric progression](https://github.com/Dimaggio-IT/algorithms/blob/master/geometric-progression.js)
 
 <!-- - Map
   - []()
