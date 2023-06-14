@@ -45,7 +45,8 @@ The project was created in order to collect algorithms that allow you to learn f
 - [Cache](https://github.com/Dimaggio-IT/algorithms/blob/master/cache.js)
 - [Factorial](https://github.com/Dimaggio-IT/algorithms/blob/master/factorial.js)
 - [Projection](https://github.com/Dimaggio-IT/algorithms/blob/master/projection.js)
-- [Palindrome](https://github.com/Dimaggio-IT/algorithms/blob/master/palindrome.js)
+- [Palindrome number](https://github.com/Dimaggio-IT/algorithms/blob/master/palindrome-number.js)
+- [Palindrome string](https://github.com/Dimaggio-IT/algorithms/blob/master/palindrome-string.js)
 - [Unique elements of array](https://github.com/Dimaggio-IT/algorithms/blob/master/unique-elements-of-array.js)
 - [Median of array](https://github.com/Dimaggio-IT/algorithms/blob/master/median-of-array.js)
 
@@ -66,6 +67,8 @@ The project was created in order to collect algorithms that allow you to learn f
 - [Projection of data from two arrays (the first array is the keys and the second is the data)](https://github.com/Dimaggio-IT/algorithms/blob/master/get-data-array-of-keys-and-array-of-values.js)
 - [Geometric progression](https://github.com/Dimaggio-IT/algorithms/blob/master/geometric-progression.js)
 - [Divisors of numbers](https://github.com/Dimaggio-IT/algorithms/blob/master/divisors-of-number.js)
+- [My indexOf](https://github.com/Dimaggio-IT/algorithms/blob/master/my-index-of.js)
+- [My slice](https://github.com/Dimaggio-IT/algorithms/blob/master/my-slice.js)
 
 <!-- - Map
   - []()
