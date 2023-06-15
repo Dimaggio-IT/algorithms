@@ -70,7 +70,7 @@ The project was created in order to collect algorithms that allow you to learn f
 - [My indexOf](https://github.com/Dimaggio-IT/algorithms/blob/master/my-index-of.js)
 - [My slice](https://github.com/Dimaggio-IT/algorithms/blob/master/my-slice.js)
 - [Get random integer](https://github.com/Dimaggio-IT/algorithms/blob/master/get-random-integer.js)
-
+- [Generate data](https://github.com/Dimaggio-IT/algorithms/blob/master/generate-data.js)
 <!-- - Map
   - []()
 - Set
