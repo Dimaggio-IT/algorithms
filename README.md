@@ -69,6 +69,7 @@ The project was created in order to collect algorithms that allow you to learn f
 - [Divisors of numbers](https://github.com/Dimaggio-IT/algorithms/blob/master/divisors-of-number.js)
 - [My indexOf](https://github.com/Dimaggio-IT/algorithms/blob/master/my-index-of.js)
 - [My slice](https://github.com/Dimaggio-IT/algorithms/blob/master/my-slice.js)
+- [Get random integer](https://github.com/Dimaggio-IT/algorithms/blob/master/get-random-integer.js)
 
 <!-- - Map
   - []()
