@@ -80,6 +80,7 @@ The project was created in order to collect algorithms that allow you to learn f
 - [Hash-table check voter](https://github.com/Dimaggio-IT/algorithms/blob/master/hash-table-check-voter.js)
 - [hash-table the price of groceries](https://github.com/Dimaggio-IT/algorithms/blob/master/hash-table-price-of-groceries.js)
 - [Adder - higher order function](https://github.com/Dimaggio-IT/algorithms/blob/master/hof-adder.js)
+- [Make the right schedule (chaining)](https://github.com/Dimaggio-IT/algorithms/blob/master/chaining-schedule.js)
 - [Linked list](https://github.com/Dimaggio-IT/algorithms/blob/master/linked-list.js)
 
 [up](#up)
