@@ -83,4 +83,7 @@ The project was created in order to collect algorithms that allow you to learn f
 - [Make the right schedule (chaining)](https://github.com/Dimaggio-IT/algorithms/blob/master/chaining-schedule.js)
 - [Linked list](https://github.com/Dimaggio-IT/algorithms/blob/master/linked-list.js)
 
+## Functional programming
+- [Maybe functor](https://github.com/Dimaggio-IT/algorithms/blob/master/maybe.js)
+
 [up](#up)
