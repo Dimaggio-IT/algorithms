@@ -84,6 +84,6 @@ The project was created in order to collect algorithms that allow you to learn f
 - [Linked list](https://github.com/Dimaggio-IT/algorithms/blob/master/linked-list.js)
 
 ## Functional programming
-- [Maybe functor](https://github.com/Dimaggio-IT/algorithms/blob/master/maybe.js)
+- [Maybe functor](https://github.com/Dimaggio-IT/algorithms/blob/master/fp/maybe.js)
 
 [up](#up)

@@ -30,7 +30,7 @@ const binarySearch = (list, item, low = 0, high = list.length - 1) => {
  * @param {number} n - number N
  * @return {Array}
  */
-const createArr = (n) => Array.from({ length: n }, (v, k) => k + 1);
+const createArr = (n) => Array.from({ length: n }, (_, k) => k + 1);
 
 const myList = createArr(5);
 
